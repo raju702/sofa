@@ -196,7 +196,7 @@ nav .content .links li{
 .home{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)), url(./images/background-img.png);
+    background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)), url(./background-img.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50%;
@@ -231,13 +231,6 @@ nav .content .links li{
     background-color: #388b6f;
     color: white;
 }
-/* Home Section End */
-
-
-
-
-
-/* Top Section Card Start */
 .offers{
     padding: 10px 8% 20px;
     background: #f3f3f3;
@@ -270,13 +263,6 @@ nav .content .links li{
         grid-template-columns: 1fr;
     }
 }
-/* Top Section Card End */
-
-
-
-
-
-/* About Section Start */
 .about{
     padding: 150px 8% 120px;
     display: grid;
@@ -331,13 +317,7 @@ nav .content .links li{
         max-width: 100%;
     }
 }
-/* About Section End */
 
-
-
-
-
-/* Product Section Start */
 .product{
     padding: 10px 8% 120px;
 }
@@ -419,7 +399,7 @@ nav .content .links li{
 .banner{
     width: 100%;
     height: 60vh;
-    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(./images/banner.png);
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(./banner.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -468,13 +448,6 @@ nav .content .links li{
     background: #388b6f;
     border: none;
 }
-/* Banner End */
-
-
-
-
-
-/* Our Galary Start */
 .gallary{
     padding: 0px 8% 120px;
 }
@@ -514,13 +487,7 @@ nav .content .links li{
         max-width: 100%;
     }
 }
-/* Our Galary End */
 
-
-
-
-
-/* Contact Section Start */
 .contact{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -594,12 +561,7 @@ form textarea{
         max-width: 100%;
     }
 }
-/* Contact Section End */
 
-
-
-
-/* Review Section Start */
 .review{
     padding: 120px 8% 120px;
     background: white;
@@ -632,13 +594,7 @@ form textarea{
         grid-template-columns: 1fr;
     }
 }
-/* Review Section End */
 
-
-
-
-
-/* Footer Start */
 #footer{
     width: 100%;
     background: #f3f3f3;
